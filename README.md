@@ -1,2 +1,2 @@
 # M_Alsabith
-<h1>My secction is K25MR</h1>
+<h1>My section is K25MR</h1>
